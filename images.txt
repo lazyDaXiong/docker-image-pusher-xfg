@@ -22,4 +22,4 @@
 #kafka-eagle:3.0.2
 #logstash:7.14.2
 #registry:latest
-portainer:latest
+portainer/portainer:latest
