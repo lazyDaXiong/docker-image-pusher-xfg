@@ -1,4 +1,4 @@
-mysql:8.0.33
+mysql:8.0.38
 #phpmyadmin:5.2.1
 #redis:6.2
 #redis-commander:0.8.0
