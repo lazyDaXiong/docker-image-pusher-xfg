@@ -1,8 +1,10 @@
-redis:latest
-redis:7.2.5
-redis:7.2
-redis:6.2.14
-phpmyadmin:latest
+nacos/nacos-server:v2.4.0.1
+
+#redis:latest
+#redis:7.2.5
+#redis:7.2
+#redis:6.2.14
+#phpmyadmin:latest
 
 #mysql:8.0.32
 #mysql:8.0.33
