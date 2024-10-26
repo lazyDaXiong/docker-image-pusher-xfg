@@ -1,5 +1,5 @@
 nacos/nacos-server:v2.4.0.1
-
+registry.k8s.io/kube-apiserver:v1.27.6
 #redis:latest
 #redis:7.2.5
 #redis:7.2
